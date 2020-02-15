@@ -1,0 +1,20 @@
+import json
+
+serviceurl = input('Enter URL for JSON file ')
+
+# Ignore SSL certificate errors
+
+url = serviceurl
+print('Retrieving', url)
+with open(url, 'r') as f:
+
+
+info = json.load(f
+#total_count = 0 #intialize sum to zero
+for item in info: #loop through all the count data
+    print("number of people", item['count'])
+    #indivcount = item['count']
+    #num_count = int(indivcount) #convert count string to integer
+    #total_count = total_count + num_count #Sum all the comment counts
+
+#print('Total Count is ', total_count) #display the sum

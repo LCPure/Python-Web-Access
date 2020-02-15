@@ -1,0 +1,1 @@
+{"people": [{"name": "Baker, William", "initiation chapter": "Beta", "id": "140679"}, {"name": "Bell, Karl", "initiation chapter": "Rho Theta", "id": "131442"}, {"name": "Bellerand, Athelstan", "initiation chapter": "Psi", "id": "143993 "}, {"name": "Biggs, David", "initiation chapter": "EGL", "id": "132349 "}]}
